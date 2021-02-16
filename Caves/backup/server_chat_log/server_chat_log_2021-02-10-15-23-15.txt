@@ -1,0 +1,70 @@
+[00:02:28]: [Join Announcement] Cbg_devil
+[00:03:37]: [Join Announcement] Hieu Bu
+[00:23:12]: [Death Announcement] Hieu Bu was killed by MacTusk. He became a spooky ghost!
+[00:23:22]: [Vote Announcement] rollback passed
+[00:23:23]: [Death Announcement] Cbg_devil was killed by Terrorbeak. She became a spooky ghost!
+[00:26:56]: [Death Announcement] Hieu Bu was killed by Blue Hound. He became a spooky ghost!
+[00:27:10]: [Vote Announcement] rollback passed
+[00:55:07]: [Skin Announcement] Hieu Bu legs_skirt_basic_blue_peacock
+[01:17:05]: [Skin Announcement] Cbg_devil legs_shorts_tan_khaki
+[02:03:50]: [Skin Announcement] Hieu Bu body_buttons_red_burgundy
+[02:31:42]: [Skin Announcement] Cbg_devil hand_wurt_cave
+[03:04:03]: [Skin Announcement] Hieu Bu body_buttons_white_ghost
+[03:15:50]: [Vote Announcement] rollback passed
+[03:36:43]: [Leave Announcement] Hieu Bu
+[03:37:44]: [Join Announcement] Hieu Bu
+[03:41:55]: [Skin Announcement] Cbg_devil body_buttons_green_laurel
+[03:48:58]: [Vote Announcement] rollback passed
+[03:57:32]: [Death Announcement] Cbg_devil was killed by Tentacle. She became a spooky ghost!
+[03:57:49]: [Leave Announcement] Cbg_devil
+[03:58:19]: [Join Announcement] Cbg_devil
+[03:58:25]: [Vote Announcement] rollback passed
+[03:59:04]: [Vote Announcement] rollback passed
+[04:11:07]: [Vote Announcement] rollback passed
+[04:20:53]: [Skin Announcement] Hieu Bu hand_workgloves_grey_gainsboro
+[04:41:21]: [Vote Announcement] rollback passed
+[04:42:01]: [Vote Announcement] rollback passed
+[04:42:35]: [Vote Announcement] rollback passed
+[04:43:12]: [Vote Announcement] rollback passed
+[04:44:13]: [Leave Announcement] Hieu Bu
+[04:45:15]: [Join Announcement] Hieu Bu
+[04:47:44]: [Skin Announcement] Cbg_devil feet_loafers_tan_khaki
+[04:59:46]: [Leave Announcement] Hieu Bu
+[04:59:48]: [Leave Announcement] Cbg_devil
+[05:46:17]: [Join Announcement] Hieu Bu
+[05:46:24]: [Join Announcement] Cbg_devil
+[06:03:33]: [Death Announcement] Hieu Bu was killed by Depths Worm. He became a spooky ghost!
+[06:03:40]: [Vote Announcement] rollback passed
+[06:45:06]: [Leave Announcement] Hieu Bu
+[06:45:07]: [Leave Announcement] Cbg_devil
+[06:46:38]: [Join Announcement] Cbg_devil
+[06:47:00]: [Join Announcement] Hieu Bu
+[07:14:41]: [Skin Announcement] Hieu Bu feet_sneakers_green_cactus
+[07:17:20]: [Skin Announcement] Cbg_devil legs_skirt_basic_black_scribble
+[07:32:49]: [Leave Announcement] Cbg_devil
+[07:35:33]: [Join Announcement] Cbg_devil
+[07:53:41]: [Leave Announcement] Cbg_devil
+[07:54:12]: [Join Announcement] Cbg_devil
+[08:13:08]: [Vote Announcement] rollback passed
+[08:25:33]: [Death Announcement] Cbg_devil was killed by Bearger. She became a spooky ghost!
+[08:25:39]: [Vote Announcement] rollback passed
+[08:36:36]: [Vote Announcement] rollback passed
+[08:39:34]: [Leave Announcement] Hieu Bu
+[08:41:58]: [Join Announcement] Hieu Bu
+[10:22:11]: [Death Announcement] Hieu Bu was killed by Bearger. He became a spooky ghost!
+[10:22:16]: [Vote Announcement] rollback passed
+[10:25:17]: [Death Announcement] Hieu Bu was killed by Bearger. He became a spooky ghost!
+[10:25:23]: [Vote Announcement] rollback passed
+[10:28:31]: [Death Announcement] Hieu Bu was killed by Hound. He became a spooky ghost!
+[10:28:41]: [Vote Announcement] rollback passed
+[11:26:57]: [Leave Announcement] Hieu Bu
+[11:28:55]: [Join Announcement] Hieu Bu
+[11:45:45]: [Vote Announcement] rollback passed
+[12:03:29]: [Death Announcement] Cbg_devil was killed by No-Eyed Deer. She became a spooky ghost!
+[12:03:34]: [Vote Announcement] rollback passed
+[12:10:11]: [Death Announcement] Hieu Bu was killed by Overheating. He became a spooky ghost!
+[12:10:16]: [Vote Announcement] rollback passed
+[12:29:06]: [Death Announcement] Hieu Bu was killed by Freezing. He became a spooky ghost!
+[12:29:14]: [Resurrect Announcement] Hieu Bu was resurrected by Meat Effigy.
+[12:39:34]: [Leave Announcement] Cbg_devil
+[12:41:04]: [Leave Announcement] Hieu Bu

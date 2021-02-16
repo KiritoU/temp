@@ -1,0 +1,10 @@
+[00:07:51]: [Join Announcement] Cbg_devil
+[00:08:03]: [Join Announcement] Hieu Bu
+[00:12:13]: [Vote Announcement] rollback passed
+[00:16:43]: [Leave Announcement] Cbg_devil
+[00:17:04]: [Join Announcement] Cbg_devil
+[00:17:10]: [Vote Announcement] rollback passed
+[00:24:42]: [Death Announcement] Cbg_devil was killed by Fire. She became a spooky ghost!
+[00:24:57]: [Vote Announcement] rollback passed
+[01:57:49]: [Leave Announcement] Hieu Bu
+[01:58:09]: [Leave Announcement] Cbg_devil

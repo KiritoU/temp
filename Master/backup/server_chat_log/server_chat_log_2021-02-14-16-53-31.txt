@@ -1,0 +1,16 @@
+[00:07:24]: [Join Announcement] Cbg_devil
+[00:07:39]: [Join Announcement] Hieu Bu
+[00:13:49]: [Death Announcement] Hieu Bu was killed by Blue Hound. He became a spooky ghost!
+[00:14:03]: [Vote Announcement] rollback passed
+[00:30:40]: [Death Announcement] Hieu Bu was killed by Freezing. He became a spooky ghost!
+[00:30:45]: [Vote Announcement] rollback passed
+[00:31:30]: [Leave Announcement] Cbg_devil
+[00:31:31]: [Leave Announcement] Hieu Bu
+[00:36:29]: [Join Announcement] Cbg_devil
+[00:36:38]: [Join Announcement] Hieu Bu
+[01:11:49]: [Skin Announcement] Cbg_devil legs_woodie_yule
+[01:19:44]: [Skin Announcement] Hieu Bu body_polo_red_higgsbury
+[01:52:22]: [Death Announcement] Hieu Bu was killed by Pengull. He became a spooky ghost!
+[01:52:54]: [Resurrect Announcement] Hieu Bu was resurrected by Life Giving Amulet.
+[02:02:45]: [Leave Announcement] Cbg_devil
+[02:03:36]: [Leave Announcement] Hieu Bu

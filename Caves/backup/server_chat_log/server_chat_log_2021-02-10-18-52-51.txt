@@ -1,0 +1,12 @@
+[00:03:24]: [Join Announcement] Cbg_devil
+[00:08:10]: [Join Announcement] Hieu Bu
+[00:08:20]: [Vote Announcement] rollback passed
+[00:26:25]: [Leave Announcement] Hieu Bu
+[00:26:28]: [Leave Announcement] Cbg_devil
+[00:42:12]: [Join Announcement] Hieu Bu
+[00:42:13]: [Join Announcement] Cbg_devil
+[01:52:23]: [Vote Announcement] rollback passed
+[02:00:08]: [Vote Announcement] rollback passed
+[02:21:01]: [Vote Announcement] rollback passed
+[02:29:21]: [Leave Announcement] Cbg_devil
+[02:29:24]: [Leave Announcement] Hieu Bu

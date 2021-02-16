@@ -1,0 +1,8 @@
+[00:29:57]: [Join Announcement] Cbg_devil
+[00:30:28]: [Join Announcement] Hieu Bu
+[00:30:42]: [Leave Announcement] Hieu Bu
+[00:31:20]: [Join Announcement] Hieu Bu
+[00:36:17]: [Leave Announcement] Hieu Bu
+[00:37:11]: [Join Announcement] Hieu Bu
+[00:39:15]: [Leave Announcement] Hieu Bu
+[00:39:16]: [Leave Announcement] Cbg_devil

@@ -1,0 +1,11 @@
+[00:00:49]: [Join Announcement] Cbg_devil
+[00:01:12]: [Join Announcement] Hieu Bu
+[01:14:33]: [Skin Announcement] Hieu Bu body_wendy_victorian
+[01:25:48]: [Skin Announcement] Cbg_devil body_wendy_rosep
+[01:56:32]: [Skin Announcement] Hieu Bu legs_jeans_black_scribble
+[02:26:10]: [Skin Announcement] Cbg_devil feet_buckle_shoe_black_jet
+[03:08:45]: [Skin Announcement] Hieu Bu feet_workboot_black_jet
+[03:22:51]: [Death Announcement] Hieu Bu was killed by Starvation. He became a spooky ghost!
+[03:23:33]: [Resurrect Announcement] Hieu Bu was resurrected by Touch Stone.
+[03:39:16]: [Skin Announcement] Cbg_devil legs_wormwood_pumpkin
+[03:41:53]: [Leave Announcement] Cbg_devil

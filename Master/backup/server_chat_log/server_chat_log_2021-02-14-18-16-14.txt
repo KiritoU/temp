@@ -1,0 +1,7 @@
+[00:04:56]: [Join Announcement] Cbg_devil
+[00:05:18]: [Join Announcement] Hieu Bu
+[00:05:58]: [Leave Announcement] Cbg_devil
+[00:06:37]: [Join Announcement] Cbg_devil
+[00:30:18]: [Skin Announcement] Hieu Bu feet_twotone_shoe_brown_sepia
+[01:21:53]: [Leave Announcement] Cbg_devil
+[01:22:03]: [Leave Announcement] Hieu Bu
