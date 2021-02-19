@@ -1,15 +1,23 @@
-[00:02:43]: [Join Announcement] Cbg_devil
-[00:03:09]: [Join Announcement] Hieu Bu
-[00:07:31]: [Death Announcement] Cbg_devil was killed by Depths Worm. She became a spooky ghost!
-[00:07:34]: [Vote Announcement] rollback passed
-[00:29:16]: [Vote Announcement] rollback passed
-[00:29:41]: [Death Announcement] Cbg_devil was killed by Misery Boomshroom. She became a spooky ghost!
-[00:48:35]: [Vote Announcement] rollback passed
-[00:49:00]: [Death Announcement] Hieu Bu was killed by Crawling Horror. He became a spooky ghost!
-[00:50:09]: [Vote Announcement] rollback passed
-[00:51:37]: [Vote Announcement] rollback passed
-[00:53:00]: [Vote Announcement] rollback passed
-[00:54:29]: [Vote Announcement] rollback passed
-[01:03:11]: [Vote Announcement] rollback passed
-[04:54:16]: [Leave Announcement] Hieu Bu
-[04:54:44]: [Leave Announcement] Cbg_devil
+[00:02:08]: [Join Announcement] Cbg_devil
+[00:02:20]: [Join Announcement] yu
+[00:03:05]: [Join Announcement] Hieu Bu
+[00:44:06]: [Leave Announcement] yu
+[00:44:48]: [Join Announcement] yu
+[00:53:38]: [Vote Announcement] rollback passed
+[01:20:34]: [Death Announcement] yu was killed by Terrorbeak. He became a spooky ghost!
+[01:21:18]: [Resurrect Announcement] yu was resurrected by Cbg_devil.
+[01:26:37]: [Leave Announcement] yu
+[01:27:33]: [Join Announcement] yu
+[02:48:04]: [Skin Announcement] Hieu Bu hand_wurt_cave
+[02:57:23]: [Skin Announcement] Cbg_devil hand_shortgloves_white_smoke
+[02:57:47]: [Skin Announcement] yu body_trimmed_blouse_yellow_flax
+[03:46:22]: [Skin Announcement] yu feet_buckle_shoe_navy_phthalo
+[03:53:50]: [Skin Announcement] Cbg_devil feet_wolfgang_ice
+[03:55:48]: [Say] (KU_59TbpX4L) Hieu Bu: con mu mat khong em?
+[03:55:53]: [Say] (KU_59TbpX4L) Hieu Bu: bam Y de chat
+[03:56:03]: [Leave Announcement] yu
+[04:05:57]: [Skin Announcement] Hieu Bu legs_pinstripe_pants_brown_chocolate
+[04:12:49]: [Leave Announcement] Cbg_devil
+[04:13:50]: [Join Announcement] Cbg_devil
+[04:40:03]: [Leave Announcement] Cbg_devil
+[04:48:52]: [Leave Announcement] Hieu Bu

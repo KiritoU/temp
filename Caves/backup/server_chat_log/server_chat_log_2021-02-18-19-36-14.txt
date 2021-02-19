@@ -1,0 +1,15 @@
+[00:02:43]: [Join Announcement] Cbg_devil
+[00:03:09]: [Join Announcement] Hieu Bu
+[00:07:31]: [Death Announcement] Cbg_devil was killed by Depths Worm. She became a spooky ghost!
+[00:07:34]: [Vote Announcement] rollback passed
+[00:29:16]: [Vote Announcement] rollback passed
+[00:29:37]: [Death Announcement] Cbg_devil was killed by Misery Boomshroom. She became a spooky ghost!
+[00:48:34]: [Vote Announcement] rollback passed
+[00:48:52]: [Death Announcement] Hieu Bu was killed by Crawling Horror. He became a spooky ghost!
+[00:50:09]: [Vote Announcement] rollback passed
+[00:51:37]: [Vote Announcement] rollback passed
+[00:53:00]: [Vote Announcement] rollback passed
+[00:54:29]: [Vote Announcement] rollback passed
+[01:03:10]: [Vote Announcement] rollback passed
+[04:54:16]: [Leave Announcement] Hieu Bu
+[04:54:44]: [Leave Announcement] Cbg_devil

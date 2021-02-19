@@ -3,7 +3,7 @@
 steamcmd_dir="$HOME/Steam"
 install_dir="$HOME/dontstarvetogether_dedicated_server"
 cluster_name="temp"
-dontstarve_dir="$HOME"
+dontstarve_dir="$HOME/.klei/DoNotStarveTogether"
 
 function fail()
 {
